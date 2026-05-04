@@ -12,6 +12,8 @@ A Slatewave syntax theme for [`bat`](https://github.com/sharkdp/bat) — a `cat`
 
 > _Slate below, teal above._
 
+<img src="docs/preview.png" alt="Slatewave for bat — README rendered with teal headings, sky-blue tags, purple storage keywords, and rose accents on a slate background" width="100%">
+
 </div>
 
 ---
